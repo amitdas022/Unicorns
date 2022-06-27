@@ -45,4 +45,4 @@ df_data.rename(columns={'Select Investors  \nDownload\n': 'Select Investors'}, i
 df_data.fillna(value=np.nan, inplace=True)
 df_data.dropna(how='all', inplace=True)
 
-df_data.to_csv('.\dataset\indian_unicorns_all_time.csv')
+df_data.to_csv('../dataset/indian_unicorns_all_time.csv')
