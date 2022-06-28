@@ -8,7 +8,7 @@
 - [CB Insights World Unicorn Data](https://www.cbinsights.com/research-unicorn-companies)
 - [Venture Intelligence Indian Unicorn Data](https://www.ventureintelligence.com/Indian-Unicorn-Tracker.php)
 
-2. *The scripts used to scrape, transform, clean and merge the data coming from the two sources are stored in the []./scripts](https://github.com/amitdas022/Unicorns/tree/Data_Integration/scripts) directory.*
+2. *The scripts used to scrape, transform, clean and merge the data coming from the two sources are stored in the [./scripts](https://github.com/amitdas022/Unicorns/tree/Data_Integration/scripts) directory.*
 
 3. *The raw data from the scrapper scripts and the cleaned, transformed and merged data are stored in the [./dataset](https://github.com/amitdas022/Unicorns/tree/Data_Integration/dataset) directory*
 
