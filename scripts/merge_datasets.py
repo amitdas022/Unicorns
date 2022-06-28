@@ -9,6 +9,12 @@ df_ind = df_ind.dropna(subset=['Company'])
 df_all = pd.read_csv('../dataset/world_unicorns.csv')
 df_all = df_all.dropna(subset=['Company'])
 
+# Drop indian companies that are former or graduated unicorns
+remove_form_grad = df_ind[df_ind['Company'].str.contains('\^')].index
+df_ind.drop(remove_form_grad, inplace=True)
+remove_form_grad = df_ind[df_ind['Company'].str.contains('\*')].index
+df_ind.drop(remove_form_grad, inplace=True)
+
 # Drop non matching columns
 df_ind.drop(columns=['Entry Valuation^^ ($B)'], inplace=True)
 
