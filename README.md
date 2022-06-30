@@ -18,7 +18,7 @@
 
 ## Data Analysis and Visualization
 
-*Data Analysis and Visualization, jupyter notebook has been used. It offers a simple, streamlined, document-centric experience. The notebooks are stored in the ./notebooks directory*
+*Data Analysis and Visualization, jupyter notebook has been used. It offers a simple, streamlined, document-centric experience. The notebooks are stored in the [./notebooks](https://github.com/amitdas022/Unicorns/tree/master/notebooks) directory*
 - *[Indian Unicorn Companies](https://github.com/amitdas022/Unicorns/blob/Data_Integration/notebooks/indian_unicorns.ipynb) offers analysis of companies based out of India*
 - *[World Unicorn Companies](https://github.com/amitdas022/Unicorns/blob/Data_Integration/notebooks/visual.ipynb) offers analysis of all unicorn companies in the world*
 
