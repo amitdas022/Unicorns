@@ -45,6 +45,7 @@
 | ML    | 20-30          |
 | L     | 30-50          |
 | XL    | > 50           |
+
 ![Categories of Valuation](https://github.com/amitdas022/Unicorns/blob/master/resources/images/categories_of_companies.png?raw=true)
 
 #### This plot shows the correlation of diffrent factors like age, location, industry with the valuation of the company (This data relates to India only)
