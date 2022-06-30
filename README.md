@@ -30,3 +30,22 @@
 2. *Libraies used for Data Visualization*
 - Matplotlib v2.5.2
 - Seaborn v0.11.2
+
+## SOME ANALYSIS
+
+#### This plot the shows the raw difference in the valuation of the biggest vs the smallest funded unicorns.
+![Valuation difference between largest and smallest unicorns](https://github.com/amitdas022/Unicorns/blob/master/world_size.png?raw=true)
+
+#### This plot shows the number of companies that fall in different categories of valuation.
+| Label | Valuation ($B) |
+|-------|----------------|
+| XS    | 0-5            |
+| S     | 5-10           |
+| M     | 10-20          |
+| ML    | 20-30          |
+| L     | 30-50          |
+| XL    | > 50           |
+![Categories of Valuation](https://github.com/amitdas022/Unicorns/blob/master/categories_of_companies.png?raw=true)
+
+#### This plot shows the correlation of diffrent factors like age, location, industry with the valuation of the company (This data relates to India only)
+![Correlation of different factors with Valuation (India)](https://github.com/amitdas022/Unicorns/blob/master/categories_of_companies.png?raw=true)
